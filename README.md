@@ -9,7 +9,7 @@
 ## JAR Build
 ```mvn clean compile assembly:single```
 
-Then, JAR file can be found in target directory.
+JAR file can be found in target directory.
 
 ## Run
 ```java -jar /target/backend-engineer-1.0-SNAPSHOT-jar-with-dependencies.jar```
